@@ -1,3 +1,3 @@
-martin sanchez 
+balatro balatres
 
 git test 01
