@@ -1,4 +1,4 @@
-#codigo
+#calculadora proyecto
 a = int(input("numero 1: "))
 b = int(input("numero 2: "))
 s = a + b
